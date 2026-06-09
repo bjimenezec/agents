@@ -1,0 +1,60 @@
+# =========================
+# Python
+# =========================
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Data
+# =========================
+data/
+dataset/
+ml/data/raw/
+ml/data/processed/
+
+# =========================
+# ML/Jupyter
+# =========================
+.ipynb_checkpoints/
+.mlruns/
+mlruns/
+*.joblib
+
+# =========================
+# Node.js / Frontend
+# =========================
+node_modules/
+.next/
+npm-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# IDE/Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# OS
+# =========================
+.DS_Store
+**/.DS_Store
+Thumbs.db
