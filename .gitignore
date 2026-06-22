@@ -16,7 +16,6 @@ htmlcov/
 # Data
 # =========================
 data/
-dataset/
 ml/data/raw/
 ml/data/processed/
 
